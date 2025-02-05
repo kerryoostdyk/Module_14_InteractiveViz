@@ -9,3 +9,7 @@ The application leverages the D3.js library to load and visualize data in a dyna
 -Bar Chart
 
 This interactive visualization allows users to explore and engage with the biodiversity data in a meaningful way.
+
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
